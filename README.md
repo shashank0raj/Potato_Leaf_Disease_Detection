@@ -18,7 +18,7 @@ This project was developed as part of the AICTE Internship on AI: Transformative
 3. Run the Streamlit Web App
    ```bash
    streamlit run web.py
-4. Upload an Image and Predict
+4. Upload an Image and Predict <br>
    Open the Streamlit interface in your browser.<br>
    Upload a potato leaf image.<br>
    Click Predict to classify the leaf condition.<br>
